@@ -3,5 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
-Ok, here is another change. 
+Use the left arrow to go back! Ok
+
+Ok, here is another change.
